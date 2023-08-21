@@ -37,7 +37,7 @@ Dikarenakan file > 25 mb, download datasets [disini](https://drive.google.com/dr
 - [Seaborn](https://seaborn.pydata.org/)
 - [Pandas](https://pandas.pydata.org/)
 
-![vokoscreenNG-2023-07-19_14-28-04](https://github.com/hendrimardani/summary_text_ind/assets/49816104/5fefd6bd-7d38-4fe1-8761-951450fc60d8)
 
+![vokoscreenNG-2023-08-20_14-26-03](https://github.com/hendrimardani/question_answer_ind/assets/49816104/43b02d05-ed66-4450-b541-63bc1fa2608d)
 
 
