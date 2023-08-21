@@ -12,7 +12,7 @@ python3 utama.py --help
 ### Models
 Dikarenakan file > 25 mb, download model pre-trained [disini](https://drive.google.com/drive/folders/1GKQPdh0vATghcYpT1gZsH_Pf3nmVztDV?usp=drive_link)
 
-## Datasets
+### Datasets
 Dikarenakan file > 25 mb, download datasets [disini](https://drive.google.com/drive/folders/11kNG1oWC5uvGfNHhuKK7xoMcuEO9cTmR?usp=drive_link)
 
 ### Tahap-tahap proses
