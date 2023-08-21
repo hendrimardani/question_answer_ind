@@ -4,6 +4,9 @@ pip install -r requirement.txt
 ```
 python3 utama.py --file {lokasi file.txt} --model {lokasi model question_answer_ind}
 ```
+### Penggunaan Argument
+- asad
+
 ### Untuk keterangan selengkapnya
 ```
 python3 utama.py --help
