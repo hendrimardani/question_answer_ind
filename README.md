@@ -22,7 +22,7 @@ Dikarenakan file > 25 mb, download datasets [disini](https://drive.google.com/dr
 5. Melakukan Text Preprocessing yang berfungsi untuk memproses data string kedalam bentuk token matrix untuk diproses oleh mesin.
 6. Load model yang sudah dilatih(pre-trained model) tujuannya untuk melatih data yang diinputkan.
 7. Lakukan prediksi data pada model yang sudah dilatih, tujuannya adalah untuk melihat hasil dari data yang sudah dilatih. Pada tahap ini biasanya dimasukan kedalam tahap akhir (**Evaluation**).
-
+s
 ##### NOTE
 
 - Total Data Training **130+rb baris**
