@@ -28,9 +28,8 @@ Dikarenakan file > 25 mb, download datasets [disini](https://drive.google.com/dr
 - Total Data Training **130+rb baris**
 - Total Data Test(Validation) **118+rb baris**
 - Total Dataset **148+rb baris**
-- Total setelah data bersih *clean data* **214184rb baris**
-- Total jam training **2,3 Jam (150 menit)**
-- Loss = 1.6616 dan Val_loss = 1.4471, sedikit mengalami overfitting. (Bisa ditambahkan lagi datanya) 
+- Total jam training **5,30 Jam**
+- Loss = 1.431
 
 ### Referensi
 - [Matplotlib](https://matplotlib.org/)
