@@ -28,7 +28,7 @@ Dikarenakan file > 25 mb, download datasets [disini](https://drive.google.com/dr
 - Total Data Training **130+rb baris**
 - Total Data Test(Validation) **118+rb baris**
 - Total Dataset **148+rb baris**
-- Total jam training **5,30 Jam**
+- Total jam training **5,30 jam**
 - Loss = 1.431
 
 ### Referensi
