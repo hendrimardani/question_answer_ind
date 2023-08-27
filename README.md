@@ -33,7 +33,14 @@ Dikarenakan file > 25 mb, download datasets [disini](https://drive.google.com/dr
 - optimizer: Adam with betas=(0.9,0.999) and epsilon=1e-08
 - lr_scheduler_type: linear
 - num_epochs: 3
-  
+
+### Training results
+
+| Training Loss | Epochs | Step | Validation Loss |
+| :---:         |     :---:      |          :---: | :------: |
+| git status   | git status     | git status    |  asa  |
+| git diff     | git diff       | git diff      |  asdasd  |
+
 ##### NOTE:
 
 - Total Data Training **130+rb baris**
