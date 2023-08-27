@@ -50,10 +50,10 @@ Due to files > 25 mb, download datasets [here](https://drive.google.com/drive/fo
 
 ##### NOTE:
 
-- Total Data Training **130+rb baris**
-- Total Data Test(Validation) **118+rb baris**
-- Total Dataset **148+rb baris**
-- Total jam training **5.30 jam**
+- Total Training Data **130+ thousand lines**
+- Total Test Data (Validation) **118+ thousand lines**
+- Total Datasets **148+ thousand lines**
+- Total Training hours **5.30 jam**
 - Loss = 1.431
 
 ### Referensi
