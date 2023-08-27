@@ -53,7 +53,7 @@ Due to files > 25 mb, download datasets [here](https://drive.google.com/drive/fo
 - Total Training Data **130+ thousand lines**
 - Total Test Data (Validation) **118+ thousand lines**
 - Total Datasets **148+ thousand lines**
-- Total Training hours **5.30 jam**
+- Total Training hours **5.30 hours**
 - Loss = 1.431
 
 ### Referensi
