@@ -38,8 +38,9 @@ Dikarenakan file > 25 mb, download datasets [disini](https://drive.google.com/dr
 
 | Training Loss | Epochs | Step | Validation Loss |
 | :---:         |     :---:      |          :---: | :------: |
-| git status   | git status     | git status    |  asa  |
-| git diff     | git diff       | git diff      |  asdasd  |
+|  1.5927  |  1.0  |  8156  |  1.7891  |
+|  1.3008  |  2.0  |  16312  |  1.7875  |
+|  1.0979  |  3.0  |  24468  |  1.8589  |
 
 ##### NOTE:
 
