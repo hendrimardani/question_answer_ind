@@ -2,7 +2,7 @@
 
 pip install -r requirement.txt
 ```
-python3 utama.py --file {lokasi file.txt} --model {lokasi model question_answer_ind}
+python3 utama.py --file {path file.txt} --model {path model question_answer_ind}
 ```
 
 ### For more information
