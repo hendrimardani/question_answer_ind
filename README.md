@@ -24,6 +24,12 @@ Dikarenakan file > 25 mb, download datasets [disini](https://drive.google.com/dr
 6. Load model yang sudah dilatih(pre-trained model)
 7. Lakukan prediksi data pada model yang sudah dilatih, tujuannya adalah untuk melihat hasil dari data yang sudah dilatih. Pada tahap ini biasanya dimasukan kedalam tahap akhir (**Evaluation**).
 
+### Training hyperparameters
+
+The following hyperparameters were used during training:
+
+-
+
 ##### NOTE:
 
 - Total Data Training **130+rb baris**
