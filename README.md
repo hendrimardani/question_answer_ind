@@ -42,6 +42,13 @@ Dikarenakan file > 25 mb, download datasets [disini](https://drive.google.com/dr
 |  1.3008  |  2.0  |  16312  |  1.7875  |
 |  1.0979  |  3.0  |  24468  |  1.8589  |
 
+### Framework version
+
+- Transformers 4.33.0.dev0
+- Pytorch 2.0.0
+- Datasets 2.1.0
+- Tokenizers 0.13.3
+
 ##### NOTE:
 
 - Total Data Training **130+rb baris**
