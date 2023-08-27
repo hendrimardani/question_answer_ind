@@ -20,7 +20,7 @@ Due to files > 25 mb, download datasets [here](https://drive.google.com/drive/fo
 2. Load datasets.
 3. Separate the dataset between training data and test data (data validation)
 4. Plotting data with the help of libraries such as: **matplotlib** or **seaborn**.
-5. Perform Text Preprocessing which functions to process string data into token matrix form for processing by the machine.
+5. Perform text preprocessing which functions to process string data into token matrix form for processing by the machine.
 6. Perform data prediction on the trained model, the goal is to see the results of the trained data.
 
 ### Training hyperparameters
